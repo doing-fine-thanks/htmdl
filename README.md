@@ -24,9 +24,8 @@ This tool draws inspiration from (at least) 2 sources: [tufte-css](https://edwar
 
 This tools supports a subset of markdown based on my own usage and needs:
 
-----------------------------------------------------------------------------------------------------------
 |type          | notes                                                                                   |
-----------------------------------------------------------------------------------------------------------
+|--------------|-----------------------------------------------------------------------------------------|
 | _italics_    | using \_ notation                                                                       |
 | __bold__     | using double \_ notation                                                                |
 | headers      | 1 through 3, if you need any more than than, consider restructuring your document).[^3] |
@@ -35,7 +34,7 @@ This tools supports a subset of markdown based on my own usage and needs:
 | citations    | using `[^1]` notation (examples in the document)                                        | 
 | block quotes | using double-space notation (examples in the document)                                  | 
 | figures      | TBD
-----------------------------------------------------------------------------------------------------------
+
 
 ## To Use:
 
