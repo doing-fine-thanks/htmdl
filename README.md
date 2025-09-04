@@ -48,7 +48,7 @@ $ uv run htmdl --file README.md --output test.html
 $ uv run htmdl --file README.md --output test.html -double-column
 ```
 
-
+---
 <!--- META:footnotes -->
 [^1] I say "scholarly" and what I mean is more formal/in line with style guides for academic journals. 
 
