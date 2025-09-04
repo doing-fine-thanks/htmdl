@@ -51,5 +51,8 @@ $ uv run htmdl --file README.md --output test.html -double-column
 
 <!--- META:footnotes -->
 [^1] I say "scholarly" and what I mean is more formal/in line with style guides for academic journals. 
+
 [^2] Logan, find this example...
-[^3] Generally speaking, I have seen technical documentation trying to architect itself _in and through_ the prose that explain it. The point of an object's documents are to _simply_ its structure around some particular reading of it. Restricting headers helps limit the impulse to add hierarchy to an otherwise linear document. For more see "Sections and headings" [here](https://edwardtufte.github.io/tufte-css/).
+
+[^3] Generally speaking, I have seen technical documentation trying to architect itself _in and through_ the prose that explain it. 
+The point of an object's documents are to _simply_ its structure around some particular reading of it. Restricting headers helps limit the impulse to add hierarchy to an otherwise linear document. For more see "Sections and headings" [here](https://edwardtufte.github.io/tufte-css/).
